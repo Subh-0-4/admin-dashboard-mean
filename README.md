@@ -79,4 +79,4 @@ The UI is designed to be simple, responsive, and professional.
 
 ## Author
 
-Developed by <Subhashree Acharya>
+Developed by <SubhashreeAcharya>
